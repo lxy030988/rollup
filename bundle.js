@@ -1,3 +1,6 @@
-let a = 1
-console.log('hello1')
-console.log('world1')
+const name = 'lxy'
+function say() {
+  console.log('hi1', name)
+}
+say()
+function c() {}

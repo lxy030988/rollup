@@ -1,3 +1,9 @@
-let a = 1
-console.log('hello1')
-console.log('world1')
+import { name, age } from './msg'
+
+function say() {
+  console.log('hi221', name)
+}
+
+say()
+
+function c() {}

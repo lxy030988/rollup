@@ -1,4 +1,9 @@
 'use strict';
 
-console.log('hello');
-console.log('world');
+const name = 'lxy';
+
+function say() {
+  console.log('hi221', name);
+}
+
+say();
